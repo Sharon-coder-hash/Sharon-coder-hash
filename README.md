@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Sharon-coder-hash
-- 👀 I’m interested in python and data analysis. If you have any project on any field mentioned, you can always reach out to me.
-- 🌱 I’m currently learning python and data analysis.
-- 💞️ I’m looking to collaborate on python related projects and also data analysis projects
+- 👋 Hi, I’m @Sharon Mbanga
+- 👀 I’m a beginner data analysts with knowledge on R, Python and Machine Learning.
+- 🌱 I’m currently learning Excel, SPSS and davanced topics in Python, R and Machine learning.
+- ✨  I am also a technical writer and business writer
+- 💞️ I’m looking to collaborate on Python and R related projects and also data analysis projects
 - 📫 Reach me on twitter: www.twitter.com/Shaziblogger or my email address on shazimbanga@gmail.com
 
 <!---
