@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sharon Mbanga
-- 👀 I’m a beginner data analysts with knowledge on R, Python and Machine Learning.
-- 🌱 I’m currently learning Excel, SPSS and davanced topics in Python, R and Machine learning.
+d - 👋 Hi, I’m @Sharon Mbanga
+- 👀 I'm a freelance data analyst and data scientist.
+- 🌱 I'm proficient in python, R, SPSS, Excel and currently advancing in SQL.
 - ✨  I am also a technical writer and business writer
 - 💞️ I’m looking to collaborate on Python and R related projects and also data analysis projects
 - 📫 Reach me on twitter: www.twitter.com/Shaziblogger or my email address on shazimbanga@gmail.com
