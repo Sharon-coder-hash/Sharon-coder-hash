@@ -1,8 +1,8 @@
 d - 👋 Hi, I’m @Sharon Mbanga
 - 👀 I'm a freelance data analyst.
-- 🌱 I'm a statistical researcher in python, Excel and currently advancing in SQL.
+- 🌱 I'm also statistical researcher in python, Excel and currently advancing in SQL.
 - ✨  I am also a technical writer and business writer
-- 💞️ I’m looking to collaborate on Python and R related projects and also data analysis projects
+- 💞️ I’m looking to collaborate on Python and SQL related projects.
 - 📫 Reach me on twitter: www.twitter.com/Shaziblogger or my email address on shazimbanga@gmail.com
 
 <!---
